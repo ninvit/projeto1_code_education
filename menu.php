@@ -14,11 +14,11 @@
 
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-                <li class="active"><a href="index.php?pagina=home">Home</a></li>
-                <li><a href="?pagina=empresa">Empresa</a></li>
-                <li><a href="?pagina=produtos">Produtos</a></li>
-                <li><a href="?pagina=servicos">Serviços</a></li>
-                <li><a href="?pagina=contato">Contato</a></li>
+                <li class="active"><a href="home">Home</a></li>
+                <li><a href="empresa">Empresa</a></li>
+                <li><a href="produtos">Produtos</a></li>
+                <li><a href="servicos">Serviços</a></li>
+                <li><a href="contato">Contato</a></li>
 
             </ul>
 
